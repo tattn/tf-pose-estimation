@@ -4,4 +4,8 @@ scipy
 tqdm
 requests
 fire
+setuptools
+opencv-python
+tensorflow
+rospy
 git+https://github.com/ppwwyyxx/tensorpack.git
